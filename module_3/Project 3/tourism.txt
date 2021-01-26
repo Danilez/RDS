@@ -1,0 +1,27 @@
+COUNTRY	2018
+Austria	30 816
+Belgium	9 119
+Croatia	16 645
+Czech Republic (Czechia)	13 665
+Denmark	12 749
+Finland	3 224
+France	89 322
+Germany	38 881
+Greece	30 123
+Hungary	17 552
+Ireland	10 926
+Italy	61 567
+Liechtenstein	85
+Lithuania	2 825
+Luxembourg	1 018
+Netherlands	18 780
+Norway	5 688
+Poland	19 622
+Portugal	16 186
+Slovakia	7 620
+Slovenia	4 425
+Spain	82 773
+Sweden	10 522
+Switzerland	11 715
+United Kingdom	36 316
+United States Of America	79 746
